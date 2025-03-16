@@ -242,12 +242,12 @@
 
 ### 장바구니 페이지
 - 장바구니에서 담은 도서의 정보를 확인할 수 있습니다.
-- 특정 도서를 선택해 주문할 수 있습니다.
+- 특정 도서를 선택해 주문할 수 있습니다.<br>
 <img width="400" alt="BS_장바구니페이지" src="https://github.com/user-attachments/assets/2af65bd6-5a85-4e8d-a19e-79083f23ee2b" />
 
 ### 주문서 작성 페이지 및 주문 내역 페이지
 - 장바구니에서 주문할 데이터를 선택해서 주문하기를 누르면 이 화면으로 넘어옵니다.
-- 원하는 데이터를 넣어주고 결제하기를 누르면 주문이 완료됩니다.
+- 원하는 데이터를 넣어주고 결제하기를 누르면 주문이 완료됩니다.<br>
 <img width="400" alt="BS_주문서작성페이지" src="https://github.com/user-attachments/assets/dbd29d99-ea39-491e-8000-3388a23b2f85" /><img width="400" alt="BS_주문내역" src="https://github.com/user-attachments/assets/2fb0eda6-ce61-436a-a766-1ef2682f98be" />
 
 
