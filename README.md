@@ -251,6 +251,3 @@
 <img width="400" alt="BS_주문서작성페이지" src="https://github.com/user-attachments/assets/dbd29d99-ea39-491e-8000-3388a23b2f85" /><img width="400" alt="BS_주문내역" src="https://github.com/user-attachments/assets/2fb0eda6-ce61-436a-a766-1ef2682f98be" />
 
 
-
-
-
