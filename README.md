@@ -17,16 +17,15 @@
 - Java, Spring, MySQL, JWT
 
 ## ERD 및 API 설계 
-ERD <br>
+- ERD <br>
 <img width="600" alt="image (1)" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" />
 
 
 <br>
 
-API 설계 : https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4
-<br>
-예시 이미지<br>
-<img width="402" alt="image" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" />
+- API 설계 : https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4 <br>
+  예시 이미지<br>
+  <img width="402" alt="image" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" />
 
 
 ## 프로젝트 구조
