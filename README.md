@@ -254,7 +254,7 @@ API 설계 : https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e
 ### 장바구니 페이지
 - 장바구니에서 담은 도서의 정보를 확인할 수 있습니다.
 - 특정 도서를 선택해 주문할 수 있습니다.<br>
-<img width="400" alt="BS_장바구니페이지" src="https://github.com/user-attachments/assets/2af65bd6-5a85-4e8d-a19e-79083f23ee2b" />
+  <img width="400" alt="BS_장바구니페이지" src="https://github.com/user-attachments/assets/2af65bd6-5a85-4e8d-a19e-79083f23ee2b" />
 
 ### 주문서 작성 페이지 및 주문 내역 페이지
 - 장바구니에서 주문할 데이터를 선택해서 주문하기를 누르면 이 화면으로 넘어옵니다.
