@@ -23,10 +23,10 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
 - Auth : JWT
 
 ## 📌 시스템 아키텍처
-ERD 설계<br>
+**ERD 설계**
 <div align="center"> <img width="600" alt="ERD" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" /> </div>
-API 설계<br>
-[BookShop API 문서 (Notion)](https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4)
+**API 설계**  
+[BookShop API 문서](https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4)
 
 <div align="center"> <img width="402" alt="API 예시" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" /> </div>
 
