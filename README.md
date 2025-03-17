@@ -290,3 +290,7 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
   <img width="400" alt="BS_주문내역" src="https://github.com/user-attachments/assets/2fb0eda6-ce61-436a-a766-1ef2682f98be" />
 </div>
 
+### 시연
+![ezgif-865eb104bc42ff](https://github.com/user-attachments/assets/35309336-19a3-47db-a8f3-25a58a30ff3b)
+
+
