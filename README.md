@@ -18,7 +18,7 @@
 
 ## ERD 및 API 설계 
 - ERD <br>
-<img width="600" alt="image (1)" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" />
+  <img width="600" alt="image (1)" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" />
 
 
 <br>
