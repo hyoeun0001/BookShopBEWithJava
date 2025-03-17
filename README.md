@@ -16,6 +16,18 @@
 - Zustand, axios
 - Java, Spring, MySQL, JWT
 
+## ERD 및 API 설계 
+ERD <br>
+<img width="400" alt=https://github.com/user-attachments/assets/c628db99-23b8-45ff-b9bf-a5ab27552a59 />
+
+<br>
+
+API 설계 : https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4
+<br>
+예시 이미지<br>
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" />
+
+
 ## 프로젝트 구조
 
 <details>
