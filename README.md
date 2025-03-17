@@ -1,32 +1,34 @@
 
-# BookShop
+# 📚 BookShop
 
-<div>
-  <img width="600" alt="BS_메인화면" src="https://github.com/user-attachments/assets/021c4c08-0535-47ba-b151-456f0da941a4" />
-</div>
+<div align="center"> <img width="600" alt="BS_메인화면" src="https://github.com/user-attachments/assets/021c4c08-0535-47ba-b151-456f0da941a4" /> </div>
 
-## 프로젝트 소개
-도서 판매 웹 사이트입니다. 
-프로젝트 기간	: 2024.5 - 2024.6 1개월 <br>
+## 🔹 프로젝트 소개
+BookShop은 온라인 도서 판매 웹사이트입니다.
+사용자는 도서를 검색하고, 장바구니에 담아 주문할 수 있습니다.<br>
 
-## 개발 환경
+- 개발 기간 : 2024.05 ~ 2024.06 (1개월)
+- 주요 기능 : 도서 조회, 카테고리별 필터링, 장바구니, 주문 관리
 
-프레임 워크
-- Typescript, React
-- Zustand, axios
-- Java, Spring, MySQL, JWT
+## 🛠 기술 스택
 
-## ERD 및 API 설계 
-- ERD <br>
-  <img width="600" alt="image (1)" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" />
+### Frontend
+- Framework : React, TypeScript
+- State Management : Zustand
+- API 통신 : Axios
 
+### Backend
+- Language & Framework : Java, Spring Boot
+- Database : MySQL
+- Auth : JWT
 
-<br>
+## 📌 시스템 아키텍처
+ERD 설계<br>
+<div align="center"> <img width="600" alt="ERD" src="https://github.com/user-attachments/assets/a935cf33-a1bc-4b3b-a498-08b56d9acf38" /> </div>
+API 설계<br>
+[BookShop API 문서 (Notion)]https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4
 
-- API 설계 : https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4 <br>
-  예시 이미지<br>
-  <img width="402" alt="image" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" />
-
+<div align="center"> <img width="402" alt="API 예시" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" /> </div>
 
 ## 프로젝트 구조
 
