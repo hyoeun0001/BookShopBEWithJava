@@ -229,8 +229,7 @@
 ### 메인 화면 & 로그인 화면
 - 메인 화면은 목업 데이터들을 이용해서 여러 디자인을 적용해 두었습니다.
 - 로그인 또는 회원가입을 진행할 수 있습니다.<br>
-<img width="400" alt="BS_메인화면" src="https://github.com/user-attachments/assets/d3f83654-3989-436c-b906-1159ffba95de" /><img width="400" alt="BS_로그인" src="https://github.com/user-attachments/assets/9ad59e84-bc24-42a7-a8ef-4c9e8bb8af96" /><br>
-<img width="400" alt="BS_회원가입" src="https://github.com/user-attachments/assets/98cfaaa7-d25a-428d-b695-51b45dc63c36" />
+<img width="400" alt="BS_메인화면" src="https://github.com/user-attachments/assets/d3f83654-3989-436c-b906-1159ffba95de" /><img width="400" alt="BS_로그인" src="https://github.com/user-attachments/assets/9ad59e84-bc24-42a7-a8ef-4c9e8bb8af96" /><img width="400" alt="BS_회원가입" src="https://github.com/user-attachments/assets/98cfaaa7-d25a-428d-b695-51b45dc63c36" />
 
 ### 전체 도서 및 개별 도서 페이지
 - 전체 도서를 확인할 수 있는 페이지입니다.
