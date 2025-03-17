@@ -28,8 +28,6 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
 
 **API 설계**
 - [BookShop API 문서](https://tame-leo-cff.notion.site/BookShop-API-1b904f52b34180f18a70e5e81756a3a6?pvs=4)
-
-<br>
 - 예시 사진 
 
 <div align="center"> <img width="402" alt="API 예시" src="https://github.com/user-attachments/assets/0767ab90-ba96-4473-844a-0e0394e2ed8e" /> </div>
