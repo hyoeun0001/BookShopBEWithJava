@@ -36,7 +36,8 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
 
 <details>
   <summary>프론트엔드</summary>
-  ```plaintext
+  ```
+  plaintext
   📦src
  ┣ 📂api
  ┃ ┣ 📜auth.api.ts
@@ -167,7 +168,8 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
 </details>
 <details>
   <summary>백엔드</summary>
-  ```plaintext
+  ```
+  plaintext
   📦src
  ┣ 📂main
  ┃ ┣ 📂java
