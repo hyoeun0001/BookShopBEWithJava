@@ -36,6 +36,7 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
 
 <details>
   <summary>프론트엔드</summary>
+
   ```tsx
   📦src
  ┣ 📂api
@@ -164,9 +165,11 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
  ┣ 📜reportWebVitals.ts
  ┣ 📜setupTests.ts
  ┗ 📜window.d.ts
+  ```
 </details>
 <details>
-  <summary>백엔드</summary>
+  <summary>백엔드드</summary>
+
   ```tsx
   📦src
  ┣ 📂main
@@ -238,6 +241,7 @@ BookShop은 온라인 도서 판매 웹사이트입니다.
  ┃ ┃ ┗ 📂BS
  ┃ ┃ ┃ ┗ 📂spring_BS
  ┃ ┃ ┃ ┃ ┗ 📜SpringBsApplicationTests.java
+```
 </details>
 
 ## 화면 및 기능 소개
